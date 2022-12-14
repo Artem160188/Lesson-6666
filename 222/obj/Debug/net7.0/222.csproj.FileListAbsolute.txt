@@ -1,0 +1,15 @@
+C:\Users\User\Documents\13 12 LLL666\222\bin\Debug\net7.0\222.exe
+C:\Users\User\Documents\13 12 LLL666\222\bin\Debug\net7.0\222.deps.json
+C:\Users\User\Documents\13 12 LLL666\222\bin\Debug\net7.0\222.runtimeconfig.json
+C:\Users\User\Documents\13 12 LLL666\222\bin\Debug\net7.0\222.dll
+C:\Users\User\Documents\13 12 LLL666\222\bin\Debug\net7.0\222.pdb
+C:\Users\User\Documents\13 12 LLL666\222\obj\Debug\net7.0\222.csproj.AssemblyReference.cache
+C:\Users\User\Documents\13 12 LLL666\222\obj\Debug\net7.0\222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\13 12 LLL666\222\obj\Debug\net7.0\222.AssemblyInfoInputs.cache
+C:\Users\User\Documents\13 12 LLL666\222\obj\Debug\net7.0\222.AssemblyInfo.cs
+C:\Users\User\Documents\13 12 LLL666\222\obj\Debug\net7.0\222.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\13 12 LLL666\222\obj\Debug\net7.0\222.dll
+C:\Users\User\Documents\13 12 LLL666\222\obj\Debug\net7.0\refint\222.dll
+C:\Users\User\Documents\13 12 LLL666\222\obj\Debug\net7.0\222.pdb
+C:\Users\User\Documents\13 12 LLL666\222\obj\Debug\net7.0\222.genruntimeconfig.cache
+C:\Users\User\Documents\13 12 LLL666\222\obj\Debug\net7.0\ref\222.dll
